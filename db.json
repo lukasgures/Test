@@ -20,5 +20,16 @@
         {
             "name": "Avatar"
         }
+     ],
+    "seances" : [
+         {
+            "id": 1,
+            "date": "2018-12-28T11:00:00+02:00",
+            "title": "Kler",
+            "type": "Obyczajowy",
+            "age": 15,
+            "duration": 135,
+            "description": "Wojtek Smarzowski, twórca wielokrotnie nagradzanych dzieł: „Wołyń”, „Pod Mocnym Aniołem”, „Drogówka”, „Róża”, „Dom zły” i „Wesele”, wraca z nowym filmem. „Kler” to obraz kościoła katolickiego jako instytucji oglądanej „od strony zakrystii”, rzucający światło na tematy niewygodne, trudne, częstokroć przemilczane, ale też poruszające."
+        }
      ]
 }
