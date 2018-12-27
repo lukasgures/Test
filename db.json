@@ -1,0 +1,14 @@
+{
+    "cinemas": [
+        {
+            "id": 1000,
+            "name": "Wrocław pasaż",
+            "locality": "Wrocław",
+            "postal_code": "50-120",
+            "street": "Pl. grunwaldzki",
+            "number": 1
+        }
+    ],
+    "page": 1,
+    "page_size": 10
+}
