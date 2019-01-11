@@ -12,22 +12,22 @@
     ],
     "movies": [
         {
-            "name": "Kler"
+            "name": "Avengers"
         },
         {
-            "name": "Batman"
+            "name": "Deadpool 2"
         },   
         {
-            "name": "Avatar"
+            "name": "Fantastyczne zwierzęta: Zbrodnie Grindelwalda"
         }
      ],
     "seances" : [
          {
             "id": 1,
             "date": "2018-12-28 11:00",
-            "date": "2018-12-28 15:00",
-            "date": "2018-12-28 19:00", 
-            "title": "Kler",
+            "date1": "2018-12-28 15:00",
+            "date2": "2018-12-28 19:00", 
+            "title": "Avengers",
             "type": "Obyczajowy",
             "age": 15,
             "duration": 135,
@@ -36,7 +36,7 @@
         {
             "id": 2,
             "date": "2018-12-28 16:00",
-            "title": "Avatar",
+            "title": "Deadpool 2",
             "type": "Akcji",
             "age": 15,
             "duration": 140,
