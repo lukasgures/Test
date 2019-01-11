@@ -41,7 +41,52 @@
             "age": 15,
             "duration": 140,
             "description": "Jake, sparaliżowany były komandos, zostaje wysłany na planetę Pandora, gdzie zaprzyjaźnia się z lokalną społecznością i postanawia jej pomóc."
-         }
-        
+         } 
+     ],
+    "seances2" : [
+         {
+            "id": 1,
+            "date": "2018-12-30 10:00",
+            "date1": "2018-12-30 12:00",
+            "date2": "2018-12-30 18:00",
+            "title": "Avengers",
+            "type": "Obyczajowy",
+            "age": 15,
+            "duration": 135,
+            "description": "Życie trzech księży ulega zmianie, kiedy ich drogi krzyżują się ponownie."
+         },
+        {
+            "id": 2,
+            "date": "2018-12-30 11:00",
+            "date1": "2018-12-30 15:00",
+            "date2": "2018-12-30 20:00",
+            "title": "Fantastyczne zwierzęta: Zbrodnie Grindelwalda",
+            "type": "Akcji",
+            "age": 15,
+            "duration": 140,
+            "description": "Jake, sparaliżowany były komandos, zostaje wysłany na planetę Pandora, gdzie zaprzyjaźnia się z lokalną społecznością i postanawia jej pomóc."
+         } 
+     ],
+    "seances3" : [
+         {
+            "id": 1,
+            "date": "2018-12-29 15:30",
+            "date1": "2018-12-29 19:00",
+            "title": "Fantastyczne zwierzęta: Zbrodnie Grindelwalda",
+            "type": "Obyczajowy",
+            "age": 15,
+            "duration": 135,
+            "description": "Życie trzech księży ulega zmianie, kiedy ich drogi krzyżują się ponownie."
+         },
+        {
+            "id": 2,
+            "date": "2018-12-29 12:30",
+            "date1": "2018-12-29 18:30",
+            "title": "Deadpool 2",
+            "type": "Akcji",
+            "age": 15,
+            "duration": 140,
+            "description": "Jake, sparaliżowany były komandos, zostaje wysłany na planetę Pandora, gdzie zaprzyjaźnia się z lokalną społecznością i postanawia jej pomóc."
+         } 
      ]
 }
