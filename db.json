@@ -88,5 +88,16 @@
             "duration": 140,
             "description": "Jake, sparaliżowany były komandos, zostaje wysłany na planetę Pandora, gdzie zaprzyjaźnia się z lokalną społecznością i postanawia jej pomóc."
          } 
+     ],
+    "reservation" : [
+         {
+            "id": 0,
+            "surname": "test",
+            "name": "test2",
+            "email": "test@test.com",
+            "phone": 123456789,
+            "seat": "2/3",
+            "movie": "Test"
+         }
      ]
 }
