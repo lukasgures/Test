@@ -25,6 +25,8 @@
          {
             "id": 1,
             "date": "2018-12-28T11:00:00+02:00",
+            "date": "2018-12-28T15:00:00+02:00",
+            "date": "2018-12-28T19:00:00+02:00", 
             "title": "Kler",
             "type": "Obyczajowy",
             "age": 15,
@@ -33,48 +35,13 @@
          },
         {
             "id": 2,
-            "date": "2018-12-28T15:00:00+02:00",
-            "title": "Kler",
-            "type": "Obyczajowy",
-            "age": 15,
-            "duration": 135,
-            "description": "Życie trzech księży ulega zmianie, kiedy ich drogi krzyżują się ponownie."
-         },
-        {
-            "id": 3,
-            "date": "2018-12-28T19:00:00+02:00",
-            "title": "Kler",
-            "type": "Obyczajowy",
-            "age": 15,
-            "duration": 135,
-            "description": "Życie trzech księży ulega zmianie, kiedy ich drogi krzyżują się ponownie."
-         },
-        {
-            "id": 4,
             "date": "2018-12-28T16:00:00+02:00",
             "title": "Avatar",
             "type": "Akcji",
             "age": 15,
             "duration": 140,
             "description": "Jake, sparaliżowany były komandos, zostaje wysłany na planetę Pandora, gdzie zaprzyjaźnia się z lokalną społecznością i postanawia jej pomóc."
-         },
-        {
-            "id": 5,
-            "date": "2018-12-28T17:00:00+02:00",
-            "title": "Avatar",
-            "type": "Akcji",
-            "age": 15,
-            "duration": 140,
-            "description": "Jake, sparaliżowany były komandos, zostaje wysłany na planetę Pandora, gdzie zaprzyjaźnia się z lokalną społecznością i postanawia jej pomóc. "
-         },
-        {
-            "id": 6,
-            "date": "2018-12-28T18:00:00+02:00",
-            "title": "Avatar",
-            "type": "Akcji",
-            "age": 15,
-            "duration": 140,
-            "description": "Jake, sparaliżowany były komandos, zostaje wysłany na planetę Pandora, gdzie zaprzyjaźnia się z lokalną społecznością i postanawia jej pomóc. "
          }
+        
      ]
 }
